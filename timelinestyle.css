@@ -19,6 +19,7 @@ body {
 }
 header {
     position: fixed;
+    top: 0;
     display: flex;
     width: 100%;
     top:0;
@@ -138,3 +139,4 @@ footer {
     }
 
 }
+
