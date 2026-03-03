@@ -18,10 +18,11 @@ body {
     background-attachment: fixed;
 }
 header {
-    position: fixed;
+    position: sticky;
     display: flex;
     width: 100%;
     top:0;
+    padding: 1.25rem;
     background: #00263a;
     color: #BA0C2f;
     z-index: 100;
@@ -137,5 +138,6 @@ footer {
     }
 
 }
+
 
 
