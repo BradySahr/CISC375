@@ -18,7 +18,7 @@ body {
     background-attachment: fixed;
 }
 header {
-    position: sticky;
+    position: fixed;
     display: flex;
     width: 100%;
     top:0;
@@ -136,4 +136,5 @@ footer {
         max-width: 100%;
         height: auto;
     }
+
 }
