@@ -19,11 +19,9 @@ body {
 }
 header {
     position: fixed;
-    top: 0;
     display: flex;
     width: 100%;
     top:0;
-    padding: 1.25rem;
     background: #00263a;
     color: #BA0C2f;
     z-index: 100;
@@ -139,4 +137,5 @@ footer {
     }
 
 }
+
 
